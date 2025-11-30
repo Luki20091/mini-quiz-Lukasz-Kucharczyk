@@ -58,15 +58,14 @@ Aplikacja posiada wbudowaną bazę pytań, np.:
 
 ## Widok aplikacji
 
-![Screenshot
-1](https://raw.githubusercontent.com/Luki20091/mini-quiz-Lukasz-Kucharczyk/main/Screenshot_1.png)
+1.  Stan początkowy
+<img src="https://raw.githubusercontent.com/Luki20091/mini-quiz-Lukasz-Kucharczyk/main/Screenshot_1.png" width="300"/>
 
-![Screenshot
-2](https://raw.githubusercontent.com/Luki20091/mini-quiz-Lukasz-Kucharczyk/main/Screenshot_2.png)
+2.  Pytanie
+<img src="https://raw.githubusercontent.com/Luki20091/mini-quiz-Lukasz-Kucharczyk/main/Screenshot_2.png" width="300"/>
 
-![Screenshot
-3](https://raw.githubusercontent.com/Luki20091/mini-quiz-Lukasz-Kucharczyk/main/Screenshot_3.png)
-
+3.  Wynik końcowy
+<img src="https://raw.githubusercontent.com/Luki20091/mini-quiz-Lukasz-Kucharczyk/main/Screenshot_3.png" width="300"/>
 
 ## 👤 Autor
 
