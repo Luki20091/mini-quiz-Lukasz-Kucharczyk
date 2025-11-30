@@ -56,6 +56,18 @@ Aplikacja posiada wbudowaną bazę pytań, np.:
 *   "2 + 2 * 2 to:" (8, 6, 4)
 *   "Największy ocean to:" (Atlantycki, Indyjski, Spokojny)
 
+## Widok aplikacji
+
+![Screenshot
+1](https://raw.githubusercontent.com/Luki20091/mini-quiz-Lukasz-Kucharczyk/main/Screenshot_1.png)
+
+![Screenshot
+2](https://raw.githubusercontent.com/Luki20091/mini-quiz-Lukasz-Kucharczyk/main/Screenshot_2.png)
+
+![Screenshot
+3](https://raw.githubusercontent.com/Luki20091/mini-quiz-Lukasz-Kucharczyk/main/Screenshot_3.png)
+
+
 ## 👤 Autor
 
 **Łukasz Kucharczyk**
